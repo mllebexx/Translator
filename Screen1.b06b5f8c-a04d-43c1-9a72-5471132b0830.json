@@ -24,13 +24,13 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "backgroundColor": "rgba(189, 16, 224, 1)",
             "borderRadius": 20
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(0, 0, 0, 1)",
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
@@ -39,7 +39,7 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "BackgroundColor": "rgba(255, 255, 255, 1)"
+        "BackgroundColor": "rgba(189, 16, 224, 1)"
     },
     "children": [
         {
@@ -48,22 +48,22 @@
             "reactType": "Text",
             "properties": {
                 "Text": "Becca",
-                "FontSize": 26,
+                "FontSize": 30,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(18, 52, 86, 1)",
                 "TextAlign": "center",
                 "Height": 45,
                 "Width": 311,
                 "Visible": true,
                 "X": 32,
-                "Y": 606,
+                "Y": 604,
                 "RelativeX": 32,
-                "RelativeY": 606,
+                "RelativeY": 604,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
-                    "fontSize": 26,
+                    "color": "rgba(18, 52, 86, 1)",
+                    "fontSize": 30,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
                     "letterSpacing": 0,
@@ -93,23 +93,21 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "30.960005696614584%",
-                    "top": "83.27211211288886%",
+                    "left": "15.693330891927083%",
+                    "top": "86.19565034377342%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "textAlign": "center",
-                    "backgroundColor": "rgba(248, 231, 28, 0.6)"
+                    "textAlign": "center"
                 },
                 "ParentId": "b06b5f8c-a04d-43c1-9a72-5471132b0830",
                 "position": "absolute",
-                "edgeOffsets": 606,
-                "children": "Becca",
-                "BackgroundColor": "rgba(248, 231, 28, 0.6)"
+                "edgeOffsets": 604,
+                "children": "Becca"
             },
             "children": [],
-            "id": "104ade10-8c44-44ed-9490-4ef47641328c",
+            "id": "da096517-046a-44a3-a45e-132f5707c36e",
             "thunkableVersion": 420,
-            "name": "lbl_name"
+            "name": "name_lbl"
         },
         {
             "type": "Layout",
